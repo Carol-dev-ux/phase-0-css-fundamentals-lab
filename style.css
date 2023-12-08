@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header{text-align: center;}
+
+image{display: block;}
+
+a{text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;}
+
+  title{text-align: center;
+    font-size: smaller;}
+
+  p#featuredproperty{
+    width: 800px;
+    text-align: center;
+    padding: auto;
+  }
+
+  #details{
+    text-align: left;
+    background-color: red;
+    text-align: center;
+    width: 25%;
+  }
+
+
